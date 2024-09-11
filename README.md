@@ -1,2 +1,2 @@
-# thermosnooker-joule-thomson
-Github repository for the extension I did on top of the Year 2 computing project at Imperial College
+# Year 2 Physics computing Project extension ICL
+As part of the year 2 computing module at Imperial College London we were tasked to create a basic elastic gas simulation using python. I extended this challenge to try and simulate an adiabatic Joule-Thomson expansion within a container and piston ste-up. I am unable to upload all files for the simulation to run as younger students would be able to access them (and hence cheat).
